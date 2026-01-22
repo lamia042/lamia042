@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lamia Aktar</h1>
 <h3 align="center">Aspiring Software Developer | Python & C++ Enthusiast | Competitive Programmer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lamia042&label=Profile%20views&color=0e75b6&style=flat" alt="lamia042" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
