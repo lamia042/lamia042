@@ -80,10 +80,10 @@
 
 ---
 
-### 🔥 Streak Stats
+<!--### 🔥 Streak Stats
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamia042&theme=radical" alt="lamia042" />
-</p>
+</p> -->
 
 ---
 
